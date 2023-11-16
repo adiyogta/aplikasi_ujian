@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295119274534",
+    "project_id": "aplikasiujian-test",
+    "storage_bucket": "aplikasiujian-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295119274534:android:86eb5afca93c7980e49ce7",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_ujian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc2iMmXTiPBnhwaWT83jcVNZLqlndHgUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
